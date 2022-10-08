@@ -1,0 +1,28 @@
+Sistema Desktop - Instalado no Computador
+
+Sistema Web - Uso através do Navegador
+
+Aplicações Móveis - Smartphones / ou Tablets
+
+UX Design - Satisfação Usuário x Produto
+
+UI Design - Experiência do Software
+
+Ferramentas: Invision, Visio, Adobe XD, Figma
+
+Cliente - Server 
+
+Front-End - Interface
+
+Back-End - Transações por trás da aplicação
+
+API - Intermediario 
+
+Fullstack - Trabalha com Front e Back End
+
+QA - Qualidade e Segurança aos Clientes
+
+Nuvem Privada - Dados Locais
+
+Nuvem Pública - Armazenamento de dados disponibilizados via internet
+

@@ -1,2 +1,22 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos Basicos
+
+LS - Listar
+
+CD - mudar de diretório
+
+Git Status - status atual do repositório
+
+Git Add . - Adicionada as pastas que estão fora da Stage
+
+Git Commit - Commita os dados adicionados
+
+Git Push - Efetua o envido dos dados para o Github
+
+Git Pull - Carrega os dados do  Github para o repositorio Local
+
+Git Log - lista todos os commits efetuados
+
+Git Restore - Remove as "alterações" ainda não adicionadas a stage
